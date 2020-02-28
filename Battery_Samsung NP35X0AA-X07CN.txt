@@ -1,6 +1,6 @@
 #Laptop Patches
 #Battery_Samsung NP35X0AA-X07CN.txt
-# 8/12/2013
+# 2/28/2020
 # Works for: Samsung NP35X0AA-X07CN
 
 
